@@ -2,7 +2,7 @@
 I'm a Master's student in Supply Chain Management with a passion for data analytics, sustainability, and logistics innovation.
 
 ## 🔧 Skills
-- SQL, Python, Power BI, Tableau
+- SQL, Python, R Programming, Power BI, Tableau
 - Supply Chain & Operations
 - Data Cleaning & Visualisation
 
