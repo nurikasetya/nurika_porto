@@ -7,9 +7,8 @@ I'm a Master's student in Supply Chain Management with a passion for data analyt
 - Data Cleaning & Visualisation
 
 ## 📂 Projects
-- 📊 [Automated KPI Dashboard](https://github.com/yourusername/project-kpi-dashboard): Streamlined logistics reporting with Power BI and SQL
-- 🧠 [AI in Demand Forecasting](https://github.com/yourusername/ai-demand-fc): Exploratory project comparing ML models for demand forecasting in FMCG
-- 🌍 [Sustainability in Nickel Supply Chain](https://github.com/yourusername/nickel-sscm): Podcast + report on Indonesia’s nickel industry and ESG challenges
+- 📊 [Student Union Dashboard](https://github.com/yourusername/project-kpi-dashboard): Streamlined logistics reporting with Power BI and SQL
+
 
 ## 🎓 Education
 - MSc in Operations and Supply Chain Management, University of Manchester (2024–2025)
