@@ -7,7 +7,7 @@ I'm a Master's student in Supply Chain Management with a passion for data analyt
 - Data Cleaning & Visualisation
 
 ## 📂 Projects
-- 📊 [Student Union Dashboard](https://github.com/yourusername/project-kpi-dashboard): Streamlined logistics reporting with Power BI and SQL
+- 📊 [Student Union Dashboard](README.md): Streamlined logistics reporting with Power BI and SQL
 
 
 ## 🎓 Education
