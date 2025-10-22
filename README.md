@@ -8,7 +8,7 @@ Currently pursuing an **MSc in Operations, Project, and Supply Chain Management*
 - **Data & Analytics:** SQL, Python, Power BI, Tableau, R Programming  
 - **Process & Operations:** Lean Six Sigma, Process Optimisation, KPI Automation  
 - **Supply Chain Management:** Forecasting, Logistics Planning, Strategic Sourcing  
-- **Tools:** SAP (MM & WMS), Visio, Minitab, ARENA, Microsoft Excel & PowerPoint  
+- **Tools:** SAP (MM & WMS), Google Colab, R Studio, Minitab, ARENA, Microsoft Excel & PowerPoint  
 - **Certifications:**  
   - CIPS Membership  
   - Lean Six Sigma Green & White Belt  
@@ -51,7 +51,7 @@ Achievements:
 
 ### 🚢 [MSc Dissertation: Detecting Liner Shipping Behaviour During Disruptions Using AIS Data]()
 **Tools:** Python | Pandas | NumPy | scikit-learn | GIS (Cartopy/Plotly)  
-My ongoing dissertation analyses **vessel AIS data (Jan–Feb 2020)** to detect operational adaptations during the early COVID-19 disruptions.  
+My dissertation analyses **vessel AIS data (Jan–Feb 2020)** to detect operational adaptations during the early COVID-19 disruptions.  
 Focus areas:
 - Route clustering using **Longest Common Subsequence (LCS) algorithm**
 - Behavioural analysis: **port skipping, port swapping, and speed adjustment**
