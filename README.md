@@ -50,13 +50,20 @@ Achievements:
 ---
 
 ### 🚢 [MSc Dissertation: Detecting Liner Shipping Behaviour During Disruptions Using AIS Data]()
-**Tools:** Python | Pandas | NumPy | scikit-learn | GIS (Cartopy/Plotly)  
-My dissertation analyses **vessel AIS data (Jan–Feb 2020)** to detect operational adaptations during the early COVID-19 disruptions.  
-Focus areas:
-- Route clustering using **Longest Common Subsequence (LCS) algorithm**
-- Behavioural analysis: **port skipping, port swapping, and speed adjustment**
-- Insights into **resilience strategies** of liner shipping companies under disruption
-
+**Tools:** Python | Pandas | NumPy | scikit-learn | GeoPandas | Cartopy | Plotly | SciPy  
+My dissertation investigates how liner shipping companies adapted operations during the early COVID-19 disruptions (Jan–Feb 2020) by analysing Automatic Identification System (AIS) vessel data. The research develops a quantitative framework to detect disruption patterns and resilience behaviours in container shipping networks.
+Methodology Overview:
+- **AIS Data Processing:** Cleaned and segmented AIS streams into port-to-port legs and voyage sequences. 
+- **Route Clustering:** Measured voyage similarity using the **Longest Common Subsequence (LCS)** algorithm and applied **Agglomerative Hierarchical Clustering (AHC)** to identify standard service routes.
+- **Medoid Route Analysis:** Selected representative (“medoid”) voyages per cluster and evaluated alignment using **soft precision, recall, and F1 scores.**
+- **Disruption Detection:** Classified port anchorage delays and voyage-leg disruptions via **Coefficient of Variation (CV)** analysis on anchorage and sailing durations.
+- Behavioural Classification: Detected operational adaptations including
+    - **Port Skipping** – omitting scheduled port calls,
+    - **Port Swapping** – changes in port sequence (measured using Kendall’s Tau), and
+    - **Speed Adjustment** – variations in mean and consistency of sailing speed.
+- Statistical Validation: Used **Chi-square and Cramér’s V** tests to examine associations between disruption types and vessel behaviours.
+**Key Insights:**
+The study reveals that port congestion and leg-level variability significantly influenced adaptive behaviours such as route reconfiguration and speed optimisation—offering evidence of resilience strategies in global liner shipping during systemic disruptions.
 ---
 
 ## 🎓 Education
