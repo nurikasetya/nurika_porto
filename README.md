@@ -1,22 +1,94 @@
 # 👋 Hi, I'm Nurika!
-I'm a Master's student in Supply Chain Management with a passion for data analytics, sustainability, and logistics innovation.
+I'm a **Supply Chain & Data Analytics professional** with 3.5 years of experience in **continuous improvement, logistics operations, and business intelligence**.  
+Currently pursuing an **MSc in Operations, Project, and Supply Chain Management** at the **University of Manchester (Alliance Manchester Business School)** with a strong focus on **data-driven decision-making, digitalisation, and sustainability**.
 
-## 🔧 Skills
-- SQL, Python, R Programming, Power BI, Tableau
-- Supply Chain & Operations
-- Data Cleaning & Visualisation
+---
 
-## 📂 Projects
-- 📊 [Student Union Sustainability Dashboard](https://github.com/nurikasetya/SUdashboard.git)
-During my master’s studies, I worked part-time as a Data Analyst using Power BI to support the Students' Union’s sustainability initiatives. I was responsible for building and maintaining interactive dashboards that visualised key sustainability indicators aligned with the UN Sustainable Development Goals (SDGs). One of my main contributions was the Waste Reduction Dashboard, which tracked usage of printing paper, office materials, and related KPIs against the Union’s 2027 targets. My work enabled clear performance tracking, strategic reporting, and data-driven decision-making by senior leadership.
+## 🔧 Core Skills
+- **Data & Analytics:** SQL, Python, Power BI, Tableau, R Programming  
+- **Process & Operations:** Lean Six Sigma, Process Optimisation, KPI Automation  
+- **Supply Chain Management:** Forecasting, Logistics Planning, Strategic Sourcing  
+- **Tools:** SAP (MM & WMS), Visio, Minitab, ARENA, Microsoft Excel & PowerPoint  
+- **Certifications:**  
+  - CIPS Membership  
+  - Lean Six Sigma Green & White Belt  
+  - Full-Stack Data Analytics (RevoU)  
+  - Introduction to Python (DataCamp)
 
-- 📊 [Student Union Ops KPI Dashboard](https://github.com/nurikasetya/SUdashboard_OpsKPI.git)
-As a part-time Power BI Data Analyst, I contributed to the development of an internal dashboard for the Research and Insight Department. The goal was to support evidence-based decision-making by decentralising data collection and embedding real-time KPIs across departments. My tasks included building visual performance trackers, integrating survey results, and highlighting operational objectives in line with organisational values such as transparency, student-centricity, and improvement & progression. This dashboard enhanced visibility for cross-departmental goals and was aligned with strategic themes like enhancing student support.
+---
+
+## 📂 Featured Projects
+
+### 📊 [Student Union Sustainability Dashboard](https://github.com/nurikasetya/SUdashboard)
+**Tools:** Power BI | SQL | Excel | SDG Metrics  
+As a **Part-Time Data Analyst** at the University of Manchester Students’ Union, I developed an interactive dashboard that visualised the Union’s **sustainability KPIs** aligned with the **UN Sustainable Development Goals (SDGs)**.  
+Key outcomes:
+- Automated visual reporting on **waste reduction, material usage, and print consumption**
+- Enabled leadership to track **progress toward 2027 sustainability targets**
+- Improved **data accessibility and transparency** across departments
+
+---
+
+### 📈 [Student Union Operations KPI Dashboard](https://github.com/nurikasetya/SUdashboard_OpsKPI)
+**Tools:** Power BI | Survey Data | Data Modelling  
+Designed and implemented a performance dashboard for the **Research and Insight Department** to centralise operational KPIs and survey results.  
+Impact:
+- Consolidated data across departments into a **real-time analytics platform**
+- Enhanced visibility on **student engagement, support services, and improvement areas**
+- Aligned dashboard insights with **strategic organisational goals** such as transparency and continuous improvement
+
+---
+
+### ⚙️ [KPI Automation for Logistics Operations (Linfox Indonesia)]()
+**Tools:** Power BI | SQL Server | ETL System  
+As a **Continuous Improvement Specialist** at Linfox Indonesia, I led a project to automate KPI dashboards across **two operational sites** managing over **370,000 shipping units monthly**.  
+Achievements:
+- Integrated **SQL and ETL data pipelines** into Power BI  
+- Improved reporting **time efficiency by 60%** and ensured consistent real-time updates  
+- Supported clients in **strategic decision-making** and **process visibility**
+
+---
+
+### 🚢 [MSc Dissertation: Detecting Liner Shipping Behaviour During Disruptions Using AIS Data]()
+**Tools:** Python | Pandas | NumPy | scikit-learn | GIS (Cartopy/Plotly)  
+My ongoing dissertation analyses **vessel AIS data (Jan–Feb 2020)** to detect operational adaptations during the early COVID-19 disruptions.  
+Focus areas:
+- Route clustering using **Longest Common Subsequence (LCS) algorithm**
+- Behavioural analysis: **port skipping, port swapping, and speed adjustment**
+- Insights into **resilience strategies** of liner shipping companies under disruption
+
+---
 
 ## 🎓 Education
-- MSc in Operations and Supply Chain Management, University of Manchester (2024–2025)
-- BEng in Industrial Engineering, ITS Surabaya
+- **MSc Operations, Project, and Supply Chain Management**, University of Manchester *(2024–2025)*  
+  – Distinction (provisional, pending dissertation)  
+  – Dissertation: *Detecting Liner Shipping Behaviour During Disruptions Using AIS Data*  
+  – Modules: Global Operations Management, Strategic SCM, Project Organising  
 
-## 📫 Get in Touch
-- 📧 Email: nurika@email.com
-- 💼 LinkedIn: [linkedin.com/in/nurika](https://linkedin.com/in/nurika)
+- **BEng Ocean Engineering**, Institut Teknologi Sepuluh Nopember *(2016–2020)*  
+  – Graduated *Cum Laude* (GPA 3.61/4.00)  
+  – Thesis: *Forecasting Throughput and Facility Needs at Teluk Lamong Port*
+
+---
+
+## 🏆 Highlights
+- 🌍 Achieved **40% process efficiency** via KPI dashboard automation (Linfox)  
+- 💡 Led **digitalisation projects** (TMS e-POD system, SAP data integration)  
+- 🧭 Managed **cross-functional projects** improving transport and warehouse operations  
+- 💬 Moderated **industry webinars** and led sponsorship teams exceeding targets by 200%+  
+
+---
+
+## 📫 Let’s Connect
+- 📧 **Email:** nurikasetyar@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nurikasetya](https://linkedin.com/in/nurikasetya)  
+- 🌏 **Location:** Bekasi, Indonesia  
+
+---
+
+### 💻 Dashboard Preview
+You can add screenshots of your dashboards like this:
+
+```markdown
+![Power BI Sustainability Dashboard](images/su_sustainability_dashboard.png)
+![Operational KPI Dashboard](images/su_ops_dashboard.png)
