@@ -49,7 +49,7 @@ Achievements:
 
 ---
 
-### 🚢 [MSc Dissertation: Detecting Liner Shipping Behaviour During Disruptions Using AIS Data]()
+### 🚢 [MSc Dissertation: Detecting Liner Shipping Behaviour During Disruptions Using AIS Data](https://github.com/nurikasetya/nurika_porto/blob/main/Nurika_Dissertation)
 **Tools:** Python | Pandas | NumPy | scikit-learn | GeoPandas | Cartopy | Plotly | SciPy  
 My dissertation investigates how liner shipping companies adapted operations during the early COVID-19 disruptions (Jan–Feb 2020) by analysing Automatic Identification System (AIS) vessel data. The research develops a quantitative framework to detect disruption patterns and resilience behaviours in container shipping networks.
 Methodology Overview:
